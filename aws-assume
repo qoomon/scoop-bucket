@@ -1,0 +1,6 @@
+{ 
+	version: "1.0.0", 
+	url: "https://github.com/qoomon/aws-assume/releases/download/v1.0.0/aws-assume-windows.zip", 
+	hash: "aafd7505500e70084fcc50861bf82d27cac36d3e8c95aa683608389058d2c73e",
+	bin: "aws-assume.exe" 
+}
